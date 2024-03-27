@@ -1,0 +1,52 @@
+html{
+  background-color: black;
+}
+h1 {
+  color: white;
+}
+.text-center{
+  text-align: center;
+}
+.mx-auto{
+  margin: auto;
+}
+.flex{
+  display: flex;
+  flex-direction: column;
+}
+.items-center{
+  align-items: center;
+}
+.row {
+  margin: 8px 0;
+}
+.button{
+  width: 80px;
+  height: 80px;
+  margin: 0 3px;
+  border-radius: 50%;
+  vertical-align: top;
+  border: none;
+  background-color: #343434
+}
+.btn-top {
+  background-color: #a5a5a5;
+}
+
+
+.btn-top-p {
+  color: black;
+}
+p {
+  font-size: 40px;
+  display: inline;
+  color: white;
+}
+.btn-right {
+  background-color: orange;
+}
+.row input{
+  padding: 10px 0;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
